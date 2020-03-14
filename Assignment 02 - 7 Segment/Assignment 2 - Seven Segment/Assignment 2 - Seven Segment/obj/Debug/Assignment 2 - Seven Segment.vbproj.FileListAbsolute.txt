@@ -1,0 +1,11 @@
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\bin\Debug\Assignment 2 - Seven Segment.exe.config
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\bin\Debug\Assignment 2 - Seven Segment.exe
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\bin\Debug\Assignment 2 - Seven Segment.pdb
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\bin\Debug\Assignment 2 - Seven Segment.xml
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment 2 - Seven Segment.vbprojAssemblyReference.cache
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment_2___Seven_Segment.Resources.resources
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment 2 - Seven Segment.vbproj.GenerateResource.cache
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment 2 - Seven Segment.exe
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment 2 - Seven Segment.xml
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment 2 - Seven Segment.pdb
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 02 - 7 Segment\Assignment 2 - Seven Segment\Assignment 2 - Seven Segment\obj\Debug\Assignment_2___Seven_Segment.Form1.resources

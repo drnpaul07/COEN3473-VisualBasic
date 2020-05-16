@@ -1,0 +1,4 @@
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 03 - Writer\Assignment 03 - Writer\Assignment 03 - Writer\obj\Debug\Assignment 03 - Writer.vbprojAssemblyReference.cache
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 03 - Writer\Assignment 03 - Writer\Assignment 03 - Writer\obj\Debug\Assignment_03___Writer.Resources.resources
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 03 - Writer\Assignment 03 - Writer\Assignment 03 - Writer\obj\Debug\Assignment 03 - Writer.vbproj.GenerateResource.cache
+E:\Workspace_Github\COEN3473-VisualBasic\Assignment 03 - Writer\Assignment 03 - Writer\Assignment 03 - Writer\obj\Debug\Assignment_03___Writer.Form1.resources
